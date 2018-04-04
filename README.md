@@ -1,4 +1,4 @@
-#UDP based streamer
+# UDP based streamer
 Dependencies (Sender):
 * OpenCV
 * PracticalSocket (included)
@@ -6,7 +6,7 @@ Dependencies (Sender):
 Dependencies (viewer):
 * OpenCV
 * Numpy
-##Notes
+## Notes
 * For FRC teams, set as static ip for the viewer to make your life easier,
  also look into which ports and how much data you can use
 
